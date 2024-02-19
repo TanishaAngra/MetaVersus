@@ -11,5 +11,3 @@ const RootLayout = ({ children }) => (
 );
 
 export default RootLayout;
-
-

@@ -16,4 +16,3 @@ const StartSteps = ({ number, text }) => (
 );
 
 export default StartSteps;
-
